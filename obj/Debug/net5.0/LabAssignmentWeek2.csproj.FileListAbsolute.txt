@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\bin\Debug\net5.0\LabAssignmentWeek2.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\bin\Debug\net5.0\LabAssignmentWeek2.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\bin\Debug\net5.0\LabAssignmentWeek2.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\bin\Debug\net5.0\LabAssignmentWeek2.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\bin\Debug\net5.0\LabAssignmentWeek2.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\bin\Debug\net5.0\ref\LabAssignmentWeek2.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\bin\Debug\net5.0\LabAssignmentWeek2.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\LabAssignmentWeek2.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\LabAssignmentWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\LabAssignmentWeek2.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\LabAssignmentWeek2.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\LabAssignmentWeek2.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\LabAssignmentWeek2.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\ref\LabAssignmentWeek2.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\LabAssignmentWeek2.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssignmentWeek2\obj\Debug\net5.0\LabAssignmentWeek2.genruntimeconfig.cache
